@@ -64,7 +64,7 @@ Y= A⊕B
 
 **PROGRAM**
 
-```module ex1(a,b,c,d,e,f,g,h);
+module ex1(a,b,c,d,e,f,g,h);
 input a,b;
 output c,d,e,f,g,h;
 assign c = a & b;
