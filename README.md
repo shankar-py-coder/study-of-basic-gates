@@ -66,7 +66,6 @@ Y= A⊕B
 
 
 module ex1(a,b,c,d,e,f,g,h);
-
 input a,b;
 
 output c,d,e,f,g,h;
